@@ -1,0 +1,22 @@
+{
+  "connection": "default",
+  "collectionName": "cruds",
+  "info": {
+    "name": "crud",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "descricao": {
+      "type": "string"
+    },
+    "dia": {
+      "type": "string"
+    }
+  }
+}
